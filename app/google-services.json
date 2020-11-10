@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "753722362652",
+    "firebase_url": "https://arvr-75c5d.firebaseio.com",
+    "project_id": "arvr-75c5d",
+    "storage_bucket": "arvr-75c5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753722362652:android:9680415915ab410dff48d9",
+        "android_client_info": {
+          "package_name": "com.kmit.arvr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753722362652-73jretbb5i2an7sktp9dfqt281rqfp6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiynNBHHYatHigwigTrRBiHHRCsar9CEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753722362652-73jretbb5i2an7sktp9dfqt281rqfp6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
